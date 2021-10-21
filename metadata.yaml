@@ -1,11 +1,16 @@
 _repo: Ki-latott-engem-Versek_66426
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66426-h/images/cover.jpg
 creator:
   author:
     agent_name: Endre, Ady
     gutenberg_agent_id: '53803'
     url: http://www.gutenberg.org/2009/agents/53803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66426#Ki-latott-engem-Versek
 gutenberg_issued: '2021-09-30'
 identifiers:
   gutenberg: '66426'
